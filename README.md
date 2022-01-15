@@ -20,8 +20,6 @@ Bangkok Christian College Student. :man_technologist:
 	- Bootstrap
 
 ## Social media :mailbox_with_no_mail:
-
-## Reach me 
 [![Github](https://img.shields.io/github/followers/gettd?label=Follow&style=social)](https://github.com/gettd)
 [![Instagram](https://img.shields.io/badge/-@get.td-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/get.td/)](https://www.instagram.com/get.td/)
 [![Mail](https://img.shields.io/badge/-getchunt@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.mail.google.com/in/getchunt-8552b5110/)](mailto:getchunt@gmail.com)
