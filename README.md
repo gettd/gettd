@@ -1,8 +1,9 @@
 <h2> Hi, I'm Tanadol! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-Full-Stack | Software engineering :robot:. (In progress)
+College Student | Software engineering :robot:. (In progress)
 
-Bangkok Christian College Student. :man_technologist:
+Bangkok Christian College Highschool. :man_technologist:
+Mahidol University International College (Current) :man_technologist:
 
 ## About me 
 
@@ -14,10 +15,10 @@ Bangkok Christian College Student. :man_technologist:
 ## What I know :computer:
 - **Programming**
 	- Python 
-	- C++
+	- C/C++
 - **Frontend Development**
-	- HTML, CSS and Javascript
-	- Bootstrap
+	- HTML, CSS (Bootstrap)
+	- Node JS
 
 ## Social media :mailbox_with_no_mail:
 [![Github](https://img.shields.io/github/followers/gettd?label=Follow&style=social)](https://github.com/gettd)
