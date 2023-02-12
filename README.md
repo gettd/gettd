@@ -11,7 +11,7 @@ Mahidol University International College (Current) :man_technologist:
 :heart: Music | 🧡 Metal/Rock | 💛 Programming
 
 - :earth_americas: I'm from Bangkok - Thailand
-- :video_game: I like to play video games
+- :video_game: Life's a one big game
 
 ## What I know :computer:
 - **Programming**
