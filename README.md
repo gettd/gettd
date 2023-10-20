@@ -1,10 +1,10 @@
 <h2> Hi, I'm Tanadol! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-College Student | Software engineering :robot:. (In progress)
+College Student | Computer Engineering :robot:.
+
+Mahidol University International College (Current) :star:
 
 Bangkok Christian College Highschool. :man_technologist:
-
-Mahidol University International College (Current) :man_technologist:
 
 ## About me 
 
@@ -14,12 +14,22 @@ Mahidol University International College (Current) :man_technologist:
 - :video_game: Life's a one big game
 
 ## What I know :computer:
-- **Programming**
-	- Python 
-	- C/C++
-- **Frontend Development**
-	- HTML, CSS (Bootstrap)
-	- Node JS
+- **My Skills**
+	- HTML , CSS, Javascript
+	- C, C++
+	- Python
+	- mySQL
+	- Figma
+	- linuxOS, MacOS, Windows
+	- Microsoft Excel, Powerpoint, Words
+	- Google sheets, slides, docs, forms, colab
+	- Adobe Photoshop, After Effects
+	- Davinci Resolve
+ 	- UX/UI Design
+	- Communication
+		Thai - Professional
+		English - Professional
+		German - Beginner
 
 ## Social media :mailbox_with_no_mail:
 [![Github](https://img.shields.io/github/followers/gettd?label=Follow&style=social)](https://github.com/gettd)
