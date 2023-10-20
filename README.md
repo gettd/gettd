@@ -27,9 +27,9 @@ Bangkok Christian College Highschool. :man_technologist:
 	- Davinci Resolve
  	- UX/UI Design
 	- Communication
-		Thai - Professional |
-		English - Professional |
-		German - Beginner
+		- Thai
+		- English
+		- German(Beginner)
 
 ## Social media :mailbox_with_no_mail:
 [![Github](https://img.shields.io/github/followers/gettd?label=Follow&style=social)](https://github.com/gettd)
