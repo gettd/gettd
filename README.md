@@ -15,16 +15,11 @@ Bangkok Christian College Highschool. :man_technologist:
 
 ## What I know :computer:
 - **My Skills**
-	- HTML , CSS, Javascript
+	- HTML, CSS, Javascript
 	- C, C++
 	- Python
 	- mySQL
 	- Figma
-	- linuxOS, MacOS, Windows
-	- Microsoft Excel, Powerpoint, Words
-	- Google sheets, slides, docs, forms, colab
-	- Adobe Photoshop, After Effects
-	- Davinci Resolve
  	- UX/UI Design
 	- Communication
 		- Thai
