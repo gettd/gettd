@@ -1,10 +1,10 @@
 <h2> Hi, I'm Tanadol! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-College Student | Computer Engineering :robot:.
+College Student | Computer Engineering :robot:
 
 Mahidol University International College (Current) :star:
 
-Bangkok Christian College Highschool. :man_technologist:
+Bangkok Christian College Highschool :man_technologist:
 
 ## About me 
 
