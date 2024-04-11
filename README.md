@@ -8,7 +8,7 @@ Bangkok Christian College Highschool :man_technologist:
 
 ## About me 
 
-:heart: Music | 🧡 Metal/Rock | 💛 Programming
+:heart: Cars | 🧡 Metal/Rock | 💛 Programming
 
 - :earth_americas: I'm from Bangkok - Thailand
 - :video_game: Life's a one big game
@@ -18,13 +18,11 @@ Bangkok Christian College Highschool :man_technologist:
 	- HTML, CSS, Javascript
 	- C, C++
 	- Python
-	- mySQL
 	- Figma
  	- UX/UI Design
-	- Communication
-		- Thai
-		- English
-		- German(Beginner)
+	- firebase
+	- vue, react
+  	- mySQL, mongoDB, firebase
 
 ## Social media :mailbox_with_no_mail:
 [![Github](https://img.shields.io/github/followers/gettd?label=Follow&style=social)](https://github.com/gettd)
