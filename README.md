@@ -26,7 +26,7 @@ Bangkok Christian College Highschool :man_technologist:
 
 ## Social media :mailbox_with_no_mail:
 [![Github](https://img.shields.io/github/followers/gettd?label=Follow&style=social)](https://github.com/gettd)
-[![LinkedIn](https://img.shields.io/badge/-tanadol-chuntarasupt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanadol-chuntarasupt)](https://www.linkedin.com/in/tanadol-chuntarasupt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/tanadol-chuntarasupt)
 [![Mail](https://img.shields.io/badge/-getchunt@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.mail.google.com/in/getchunt-8552b5110/)](mailto:getchunt@gmail.com)
 ---
 ⭐️ From [gettd](https://github.com/gettd) ⭐️
